@@ -7,7 +7,7 @@ npm install wepy-cli -g
 # install dependencies
 npm install
 
-#开启实时编译
+# 开启实时编译
 wepy build --watch
 ```
 
